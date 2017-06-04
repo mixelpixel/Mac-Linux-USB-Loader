@@ -1,6 +1,6 @@
 # Persistent USB boot of Ubuntu 16.04.2 LTS for my mid-2012 2GHz i7 MacBook Air with macOS Sierra 10.12.5 and 8GB RAM.
 - I tried formatting with GUID Partition Map and the startup is slow and wonky. Trying without GUID...
-
+***
 <img src="https://github.com/SevenBits/Mac-Linux-USB-Loader/blob/master/Mac-Linux-USB-Loader/Images.xcassets/AppIcon.appiconset/icon_128x128.png?raw=true" alt="Mac Linux USB Loader logo" align="left"/>
 <p align="left"><b>Mac Linux USB Loader</b></p>
 
